@@ -1,5 +1,5 @@
 ### Under Construction with some very heavy code
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogarrido98)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **joaogarrido98/joaogarrido98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
