@@ -7,6 +7,6 @@ My name is João Garrido and I'm a software developer. I'm a computer science st
 
 Out of all languages and technologies i've used i've been loving to code in kotlin for backend.
 
-### My technologies and tools
+## My technologies and tools
 
 
