@@ -9,5 +9,4 @@ Out of all languages and technologies i've used i've been loving to code in kotl
 
 ### My technologies and tools
 
-![os](https://img.shields.io/badge/OS-Windows-orange)
 
