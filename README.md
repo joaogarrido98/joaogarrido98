@@ -1,14 +1,12 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=slateorange)
-
 <h1 align="center"> Hello fellow developers!</h1> <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=joaogarrido98&label=Profile%20views&color=orange&style=flat" />
 
 My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool.
 
 ### You can find me online 🗺️
 
-[<img alt="João | Gmail" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/resources/gmail.svg?raw=true" />][mail] &nbsp;
-[<img alt="João | LinkedIn" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/resources/linkedin.svg?raw=true" />][linkedin] &nbsp;
-[<img alt="João | StackOverflow" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/resources/stack-overflow.svg?raw=true" />][stackoverflow] &nbsp;
+[<img alt="João | Gmail" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/gmail.svg?raw=true" />][mail] &nbsp;
+[<img alt="João | LinkedIn" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/linkedin.svg?raw=true" />][linkedin] &nbsp;
+[<img alt="João | StackOverflow" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/stack-overflow.svg?raw=true" />][stackoverflow] &nbsp;
 
 [portfolio]: https://joaogarrido.github.io/joao-garrido/
 [mail]:mailto:joao.melo.garrido@gmail.com
