@@ -14,6 +14,7 @@
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-garrido-40098a133/
 [stackoverflow]: https://stackoverflow.com/users/12801831/jo%c3%a3o-garrido
 [spotify]: https://open.spotify.com/user/21swkzdu5sl6wzzxblc43zf3y
+
 ---
 
 <details>	
