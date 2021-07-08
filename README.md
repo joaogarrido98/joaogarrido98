@@ -1,4 +1,5 @@
 <h1 align="center"> Hello fellow developers! <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=joaogarrido98&label=Profile%20views&color=orange&style=flat"/></h1>
+<h4 align="center">Using code to make life a bit easier for everyone in the world</h4>
 <p align="center">My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool. </p>
 
 
@@ -21,7 +22,7 @@
 ---
 
 <details>	
-###  <summary> 🖥️ Github Stats</b></summary>
+  <summary> 🖥️ Github Stats</b></summary>
   <br />
   <p align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=slateorange" />
