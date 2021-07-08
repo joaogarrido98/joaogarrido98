@@ -21,7 +21,7 @@
 ---
 
 <details>	
-  <summary>### 🖥️ Github Stats</b></summary>
+###  <summary> 🖥️ Github Stats</b></summary>
   <br />
   <p align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=slateorange" />
