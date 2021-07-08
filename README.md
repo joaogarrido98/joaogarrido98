@@ -1,6 +1,6 @@
 <h1 align="center"> Hello fellow developers!</h1> <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=joaogarrido98&label=Profile%20views&color=orange&style=flat" />
 
-My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool.
+<h2>My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool.</h2>
 
 ### You can find me online 🗺️
 
