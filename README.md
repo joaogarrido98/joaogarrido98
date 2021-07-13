@@ -32,7 +32,7 @@
 [<img alt="João | Gmail" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/gmail.svg?raw=true" />][mail] &nbsp;
 [<img alt="João | LinkedIn" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/linkedin.svg?raw=true" />][linkedin] &nbsp;
 [<img alt="João | StackOverflow" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/stack-overflow.svg?raw=true" />][stackoverflow] &nbsp;
-[<img alt="João | Spotify" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/spotify.svg?raw=true" />][stackoverflow] &nbsp;
+[<img alt="João | Spotify" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/spotify.svg?raw=true" />][spotify] &nbsp;
 
 
 [portfolio]: https://joaogarrido.github.io/joao-garrido/
