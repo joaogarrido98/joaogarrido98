@@ -3,7 +3,7 @@
 <p align="center">My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool. </p>
 
 ---
-
+<!--
 ### Top Languages and Frameworks:
 <p align="center">
   <img alt="Kotlin" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/kotlin.svg?raw=true" />
@@ -24,7 +24,7 @@
   <img alt="IntelliJ IDEA" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/intelli.svg?raw=true" />
   <img alt="Postman" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/postman.svg?raw=true" />
 </p>
-
+-->
 ---
 
 ### You can find me online 🗺️
