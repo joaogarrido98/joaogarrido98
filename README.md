@@ -42,15 +42,12 @@
 [spotify]: https://open.spotify.com/user/21swkzdu5sl6wzzxblc43zf3y
 
 ---
-
-<details>	
-  🖥️ Github Stats</b>
+  <summary>🖥️ Github Stats</b></summary>
   <br />
   <p align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=slateorange" />
     &nbsp
     <img alt="Most used languages" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogarrido98&count_private=true&show_icons=true&layout=compact&langs_count=8&theme=slateorange" />
   </p>
-</details>
 
 
