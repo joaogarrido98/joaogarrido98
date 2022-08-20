@@ -7,7 +7,10 @@ Backend developer
 *   🌍  I'm based in Liverpool
 *   ✉️  You can contact me at [joao.melo.garrido@gmail.com](mailto:joao.melo.garrido@gmail.com)
 *   🧠  I'm learning Vue.js and Flutter
-*   🤝  I'm open to collaborating on small projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on small projects
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -23,10 +26,8 @@ Backend developer
                                 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials
+<p align="left">
                           
                       <a href="https://www.github.com/joaogarrido98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
