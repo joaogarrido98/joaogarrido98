@@ -1,53 +1,37 @@
-<h1 align="center"> Hello fellow developers! <img alt="Profile Views" height="18px" src="https://komarev.com/ghpvc/?username=joaogarrido98&label=Profile%20views&color=orange&style=flat"/></h1>
-<h4 align="center">Using code to make life a bit easier for everyone in the world</h4>
-<p align="center">My name is João Garrido, I'm a portuguese software developer and a computer science student at the University of Liverpool. </p>
+Hello fellow devs, my name is Joao Garrido
+=============================
 
----
-<!--
-### Top Languages and Frameworks:
-<p align="center">
-  <img alt="Kotlin" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/kotlin.svg?raw=true" />
-  <img alt="Java" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/java.svg?raw=true" />
-  <img alt="Ktor" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/ktor.svg?raw=true" />
-  <img alt="JavaScript" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/javasricpt.svg?raw=true" />
-  <img alt="Haskell" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/haskell.svg?raw=true" />
-  <img alt="PHP" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/php.svg?raw=true" />
-  <img alt="SQL" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/sql.svg?raw=true" />
-  <img alt="Firebase" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/kotlin.svg?raw=true" />
-  <img alt="Bootstrap" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/bootstrap.svg?raw=true" />
-</p>
+Backend developer
+-----------------
 
-### Tools:
-<p align="center">
-  <img alt="VS Code" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/vscode.svg?raw=true" />
-  <img alt="Android Studio" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/android.svg?raw=true" />
-  <img alt="IntelliJ IDEA" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/intelli.svg?raw=true" />
-  <img alt="Postman" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/postman.svg?raw=true" />
-</p>
--->
----
-
-### You can find me online 🗺️
-
-[<img alt="João | Gmail" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/gmail.svg?raw=true" />][mail] &nbsp;
-[<img alt="João | LinkedIn" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/linkedin.svg?raw=true" />][linkedin] &nbsp;
-[<img alt="João | StackOverflow" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/stack-overflow.svg?raw=true" />][stackoverflow] &nbsp;
-[<img alt="João | Spotify" height="30em" src="https://github.com/joaogarrido98/joaogarrido98/blob/main/resources/spotify.svg?raw=true" />][spotify] &nbsp;
-
-
-[portfolio]: https://joaogarrido.github.io/joao-garrido/
-[mail]:mailto:joao.melo.garrido@gmail.com
-[linkedin]: https://www.linkedin.com/in/jo%C3%A3o-garrido-40098a133/
-[stackoverflow]: https://stackoverflow.com/users/12801831/jo%c3%a3o-garrido
-[spotify]: https://open.spotify.com/user/21swkzdu5sl6wzzxblc43zf3y
-
----
-  <summary>🖥️ Github Stats</b></summary>
-  <br />
-  <p align="center">
-    <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&count_private=true&show_icons=true&theme=slateorange" />
-    &nbsp
-    <img alt="Most used languages" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogarrido98&count_private=true&show_icons=true&layout=compact&langs_count=8&theme=slateorange" />
-  </p>
-
+*   🌍  I'm based in Liverpool
+*   ✉️  You can contact me at [joao.melo.garrido@gmail.com](mailto:joao.melo.garrido@gmail.com)
+*   🧠  I'm learning Vue.js and Flutter
+*   🤝  I'm open to collaborating on small projects### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+                                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/joaogarrido98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/joão-garrido-40098a133" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/12801831/jo%C3%A3o-garrido" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/joaogarrido98"><img src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&show_icons=true&hide=prs,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaogarrido98's GitHub stats" /></a>
 
