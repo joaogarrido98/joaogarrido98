@@ -9,8 +9,9 @@ BSc Computer Science at University of Liverpool
 *   🌍  I'm based in Liverpool but I'm Portuguese
 *   ✉️  You can contact me at [joao.melo.garrido@gmail.com](mailto:joao.melo.garrido@gmail.com)
 *   🚀  I'm currently working on a top secret web app to manage recipes for the week
-*   🧠  I'm learning Vue.js and interested in learning web3
+*   🧠  I'm learning Vue.js and interested in learning web3, also trying to learn best practices
 *   🤝  I'm open to collaborating on small projects or open source projects
+*   ⚡  I'm extremely enthusiastic about kotlin
 
 ### Skills
 <p align="left">
