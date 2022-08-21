@@ -4,10 +4,13 @@ Hello fellow devs, my name is Joao Garrido
 Backend developer
 -----------------
 
-*   🌍  I'm based in Liverpool
+BSc Computer Science at University of Liverpool
+
+*   🌍  I'm based in Liverpool but I'm Portuguese
 *   ✉️  You can contact me at [joao.melo.garrido@gmail.com](mailto:joao.melo.garrido@gmail.com)
-*   🧠  I'm learning Vue.js and Flutter
-*   🤝  I'm open to collaborating on small projects
+*   🚀  I'm currently working on a top secret web app to manage recipes for the week
+*   🧠  I'm learning Vue.js and interested in learning web3
+*   🤝  I'm open to collaborating on small projects or open source projects
 
 ### Skills
 <p align="left">
@@ -15,7 +18,6 @@ Backend developer
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
