@@ -38,4 +38,6 @@ BSc Computer Science at University of Liverpool
 ### Github stats
  
  <a href="http://www.github.com/joaogarrido98"><img src="https://github-readme-stats.vercel.app/api?username=joaogarrido98&show_icons=true&hide=prs,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaogarrido98's GitHub stats" /></a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogarrido98&layout=compact)](https://github.com/joaogarrido98/github-readme-stats)
 
