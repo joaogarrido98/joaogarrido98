@@ -6,9 +6,7 @@ Backend developer - BSc Computer Science at Uni of Liverpool
 
 *   🌍  I'm based in Liverpool but I'm Portuguese
 *   ✉️  You can contact me at [joao.melo.garrido@gmail.com](mailto:joao.melo.garrido@gmail.com)
-*   🚀  I'm currently working on my final year project using flutter and ktor
-*   🧠  I'm learning Vue.js and very interested in learning best practices of coding
-*   🤝  I'm open to collaborating on small projects or open source projects
+*   🚀  I'm currently working on my final year project using flutter, ktor, vue.js and webrtc.
 *   ⚡  I'm extremely enthusiastic about kotlin
 
 ### Skills
